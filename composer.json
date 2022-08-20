@@ -1,0 +1,20 @@
+{
+    "name": "cmdstr/mysqli",
+    "description": "A simplier way to use mysqli in PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Snedeker"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "cmdstr\\": "src/cmdstr"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+	"php": ">=8.0"
+    }
+}

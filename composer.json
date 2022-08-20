@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "cmdstr\\": "src/cmdstr"
+            "cmdstr\\mysqli\\": "src/"
         }
     },
     "minimum-stability": "stable",

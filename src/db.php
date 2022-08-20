@@ -1,6 +1,6 @@
 <?php
 
-    namespace mysqli;
+    namespace cmdstr\mysqli;
 
     use mysqli;
     use mysqli_result;
